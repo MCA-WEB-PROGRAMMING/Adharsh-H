@@ -37,7 +37,7 @@
             </form>
             
 </body>
-</html><br>
+</html>
 
 <?php
 if(isset($_POST["btn"])){
